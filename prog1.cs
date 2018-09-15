@@ -3,6 +3,6 @@ public class Program
 {
 	public static void Main(string[] args)
 	{
-		Console.WriteLine("test999");
+		Console.WriteLine("testXM");
 	}
 }
